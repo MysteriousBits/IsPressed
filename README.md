@@ -14,7 +14,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _  ___
 
 How to install and use:
 Installing:
-- You can just download the Executable_IsPressed.zip(.exe and .ico file in the same directory),unzip/extract the .zip and run the 'IsPressed.exe' file (script and everything included).
+- You can just download the IsPressed_Executable.zip(.exe and .ico file in the same directory),unzip/extract the .zip and run the 'IsPressed.exe' file (script and everything included).
 
 Or, if you have python pre-installed, u can get the light wet python script.
 - go to cmd, run "pip install pywin32" command to install the needed module.
