@@ -14,10 +14,11 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _  ___
 
 How to install and use:
 Installing:
-You can just download and run the 'IsPressed.exe' file (script and everything included) and run it.
+- You can just download the Executable_IsPressed folder(.exe and .ico file in the same directory) and run the 'IsPressed.exe' file (script and everything included) and run it.
+
 Or, if you have python pre-installed, u can get the light wet python script.
 - go to cmd, run "pip install pywin32" command to install the needed module.
--now you can download the ispressed.py file and the icon file. Then just run the IsPressed.py and you are all done.
+- now you can download the ispressed.py file and the icon file. Then just run the IsPressed.py and you are all done.
 
 Using: Very simple to use as well ( No extra input system). Just run the file and then drag and place the small window where you like.
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ _ _ _ _  ___
