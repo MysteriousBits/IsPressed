@@ -21,7 +21,7 @@ pressed = ""
 temp = " "
 
 #creating a dictionary to keep all virtual key codes
-#adding a boolean to seperately detect condition of every keys
+#adding a boolean to seperately detect condition of every key
 dict = {'Mouse-Left':[0x01,False],
            'Mouse-Right':[0x02,False],
            'Mouse-Middle':[0x04,False],
